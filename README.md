@@ -85,8 +85,6 @@ Project supported by - [@patrickbiyaga](https://twitter.com/patrickbiyaga)
 
 #🚀 Improving the health system with an ethical approach
 
-[See-Docs vision](https://seedoc.substack.com/p/la-valeur-ajoute-de-see-docs-au-quotidien)
-
 
 
 ## Our Story
